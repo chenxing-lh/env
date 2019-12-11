@@ -1,0 +1,19 @@
+{
+  "appKey": "4hE99i0cIlxAU2JzHmBY837XPoOg54li",
+  "appSecret": "l9SyEHEEm7DqyOD410fpVPcxZHs0iODd",
+  "projectId": "63ab8287c4b57793e7c11a229d514f6d",
+  "id": 304,
+  "name": "env",
+  "framework": "vue",
+  "platform": "pc",
+  "description": "",
+  "git": {
+    "url": "https://github.com/chenxing-lh/env.git",
+    "isPrivate": 0,
+    "username": "381606250@qq.com",
+    "password": "lh15627836616"
+  },
+  "alias": {},
+  "pages": [],
+  "dependencies": []
+}
